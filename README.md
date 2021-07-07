@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Roman
+- 👀 I’m interested in Technology so much
+- 🌱 I’m currently learning programming
